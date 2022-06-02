@@ -1,3 +1,3 @@
-# golang-concurrency
+# mastering-golang
 
-mastering concurrency in Go using various resources.
+Mastering Golang, especially concurrencym using various resources.
